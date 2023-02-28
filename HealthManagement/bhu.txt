@@ -1,0 +1,13 @@
+Date of admission: 28/02/2023 23:22:48
+Name : bhumika
+Address : keshavnagar
+Contact Number : 99605
+Age : 12
+Sex : female
+Blood Group : b
+Any Major disease suffered earlier : no
+Patient ID : 123
+
+********************************************************************
+
+

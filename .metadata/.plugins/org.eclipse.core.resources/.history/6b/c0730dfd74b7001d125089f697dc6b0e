@@ -1,0 +1,7 @@
+package studentmanagement;
+
+public class StudentMngMain {
+	public static void main(String[] args) {
+		
+	}
+}

@@ -1,0 +1,20 @@
+Date of admission: 28/02/2023 23:07:43
+Name : dinesh choudhary
+Address : keshavanagar
+Contact Number : 99605
+Age : 20
+Sex : male
+Blood Group : a-
+Any Major disease suffered earlier : no
+Patient ID : 123
+
+********************************************************************
+
+
+Doctor appointed: maleria
+Symptoms : fever
+Diagnosis : tablet
+Medicines : syrup
+Addmission Required? : no
+*************************************************************************
+
